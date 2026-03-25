@@ -1,0 +1,8 @@
+Anthropic
+Streamlit
+Pyngrok
+Scikit-learn
+Matplotlib
+Pandas 
+Numpy
+Pillow
